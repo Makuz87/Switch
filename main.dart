@@ -19,7 +19,7 @@ void main() {
       print("Wochende ist genial");
   }
 
-//Aufgabe 2                     //   String gender2 = "female";
+//Aufgabe 2
 
   String sex = "male";
   int age = 21;
