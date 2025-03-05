@@ -46,4 +46,3 @@ void main() {
       }
   }
 }
-// habe keine Ergebnis bekommen, aber mit Melli zusammen erarbeitet.
